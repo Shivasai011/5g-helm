@@ -52,7 +52,7 @@ gnb:
 
   amf:
     n2if:  # NGAP
-      ipAddress: core-free5gc-amf-amf-0.amf-service
+      ipAddress: amf-service
       port: 38412
     service:
       ngap:
